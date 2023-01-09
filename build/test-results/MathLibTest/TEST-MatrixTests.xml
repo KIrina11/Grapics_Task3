@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="MatrixTests" tests="14" skipped="0" failures="0" errors="0" timestamp="2023-01-09T09:18:45" hostname="DESKTOP-UV92K7K" time="0.05">
+  <properties/>
+  <testcase name="testForCreateUnitMatrix3x3()[MathLib]" classname="MatrixTests" time="0.024"/>
+  <testcase name="testForCreateUnitMatrix4x4()[MathLib]" classname="MatrixTests" time="0.001"/>
+  <testcase name="testForTransposeMatrix3x3()[MathLib]" classname="MatrixTests" time="0.0"/>
+  <testcase name="testForTransposeMatrix4x4()[MathLib]" classname="MatrixTests" time="0.001"/>
+  <testcase name="testForSubtractMatrix3x3()[MathLib]" classname="MatrixTests" time="0.001"/>
+  <testcase name="testForSubtractMatrix4x4()[MathLib]" classname="MatrixTests" time="0.001"/>
+  <testcase name="testForSumMatrix3x3()[MathLib]" classname="MatrixTests" time="0.001"/>
+  <testcase name="testForSumMatrix4x4()[MathLib]" classname="MatrixTests" time="0.001"/>
+  <testcase name="testForMultiplyMatrix4x4ByVector4()[MathLib]" classname="MatrixTests" time="0.001"/>
+  <testcase name="testForMultiplyMatrix3x3ByVector3()[MathLib]" classname="MatrixTests" time="0.001"/>
+  <testcase name="testForMultiplyMatrix3x3()[MathLib]" classname="MatrixTests" time="0.001"/>
+  <testcase name="testForMultiplyMatrix4x4()[MathLib]" classname="MatrixTests" time="0.001"/>
+  <testcase name="testForCreateNullMatrix3x3()[MathLib]" classname="MatrixTests" time="0.002"/>
+  <testcase name="testForCreateNullMatrix4x4()[MathLib]" classname="MatrixTests" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
